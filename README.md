@@ -1,4 +1,4 @@
-# CROWDFUNDING
+
 # Solana Crowdfunding with Anchor
 
 This project is a decentralized crowdfunding application built on Solana using Anchor framework. It allows users to connect their Phantom wallet, donate to existing campaigns, and create their own campaigns. Each user can create only one campaign and withdraw funds if they are the owner of the campaign.
