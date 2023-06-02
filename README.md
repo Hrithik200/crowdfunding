@@ -32,3 +32,8 @@ Phantom
 At the end something is not working as showing user/signer error
 
 Feel free to modify the content to fit your project and add any additional sections as needed.
+
+# Screenshots
+![Screenshot 2023-06-02 at 3 46 51 PM](https://github.com/Hrithik200/crowdfunding/assets/64530006/6301cae1-f8d5-4c58-9961-71f628dd6f57)![Screenshot 2023-06-02 at 3 47 08 PM](https://github.com/Hrithik200/crowdfunding/assets/64530006/24478e62-e182-4ddb-ab23-eeecabda07b5)
+
+
